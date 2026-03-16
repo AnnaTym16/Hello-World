@@ -1,2 +1,5 @@
 Hello Git
 This is my practice
+
+частина 2
+I am learning Git today
